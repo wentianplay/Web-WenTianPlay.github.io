@@ -1,5 +1,5 @@
 {
-    "title": "我是网站的标题~",
+    "title": "文天玩WenTianPlayWeb",
     "theme": {
         "theme": "defdark",
         "displayName": "ACG-Home",
@@ -19,14 +19,14 @@
         }
     },
     "masterInfo": {
-        "name": "<站长名字>",
+        "name": "苏天彬",
         "avatar": "./assets/images/avatar.png",
-        "website": "https://hic.top",
+        "website": "https://www.WenTianPlay.cn",
         "socialLink": {
             "link": {
-                "bilibili": "https://space.bilibili.com/675279872",
-                "github": "https://github.com/ChengCheng0v0",
-                "email": "javascript:showEmail()"
+                "bilibili": "https://space.bilibili.com/1607684364",
+                "github": "https://github.com/WenTianPlay",
+                "email": "mailto:su@tianbin.net"
             },
             "icon": {
                 "bilibili": "fa-brands fa-bilibili",
@@ -43,11 +43,11 @@
         "info": {
             "code": {
                 "china": "X-ICP备XXXXXXXXXX号",
-                "moegov": "萌ICP备XXXXXXXX号"
+                "moegov": "彬ICP备20240503号"
             },
             "link": {
                 "china": "https://beian.miit.gov.cn",
-                "moegov": "https://icp.gov.moe/?keyword=xxxxxxxx"
+                "moegov": "https://icp.tianbin.net/?keyword=20240503"
             }
         },
         "enable": ["moegov", "china"]
